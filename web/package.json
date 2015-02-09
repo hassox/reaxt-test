@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "css-loader": "^0.9.1",
+    "jsx-loader": "^0.12.2",
+    "less-loader": "^2.0.0",
+    "react": "^0.12.2",
+    "react-hot-loader": "^1.1.4",
+    "webpack": "^1.5.3"
+  }
+}
