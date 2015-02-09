@@ -3,4 +3,7 @@
 erl_crash.dump
 *.ez
 web/node_modules
+priv/static/client.*.js
+priv/static/*hot-update.js*
+priv/webpack.stats.json
 
